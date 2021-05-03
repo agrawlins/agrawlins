@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and React
 
-- 💞️ I’m looking to collaborate with other web developers to get some experience
+- 💞️ I’m looking to collaborate with web developers to create websites and applications that cater to specific needs
 
 - 📫 The best way to get a hold of me is via email (agrawlins@gmail.com)
 
