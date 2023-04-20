@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @agrawlins
 
-- 👀 I’m interested in learning how to become a web developer
+- 👀 I’m interested in working as a web developer
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and React
+- 🌱 I’m currently refining my skills in Full-Stack Web Development (MERN Stack)
 
 - 💞️ I’m looking to collaborate with web developers to create websites and applications that cater to specific needs
 
